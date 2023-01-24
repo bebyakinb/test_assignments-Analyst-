@@ -48,13 +48,11 @@ where
     and status <> "Resolved"
 ```
 
-## 3. Задание №3. Interactive app on Pyton using streamlit
+## 3. Задание №3. Interactive app on Python using streamlit
 Задачей был разработать инетрактивное приложение по макету
 
-![image](https://github.com/bebyakinb/test_assignments_Analyst/tree/master/Saber/assets/maket.png)
+![image](./assets/maket.png)
 
-[Код приложения](https://github.com/bebyakinb/test_assignments_Analyst/tree/master/Saber/Task_3_streamlit_app.py)
+Приложение доступно [здесь](http://35.91.83.221:8501).
 
-[Сайт приложения](https://35.91.83.221:8501)
-
-
+Код приложения можно посмотреть [здесь](https://github.com/bebyakinb/test_assignments_Analyst/tree/master/Saber/Task_3_streamlit_app.py).
