@@ -38,7 +38,7 @@ Project code
 
 <tr><td>
 <a href="https://github.com/bebyakinb/test_assignments_Analyst/blob/master/Saber">
-<img src="assets/saber.png" alt="saber_project_preview" width="300" height="200">
+<img src="assets/Saber.png" alt="saber_project_preview" width="300" height="200">
 </a>
 </td>
 <td>
@@ -52,11 +52,11 @@ Project code
 
 <tr><td>
 <a href="https://github.com/bebyakinb/test_assignments_Analyst/blob/master/Saber">
-<img src="assets/SQL_habr.png" alt="habr_project_preview" width="300" height="200">
+<img src="assets/habr.png" alt="habr_project_preview" width="300" height="200">
 </a>
 </td>
 <td>
-<a href="https://habr.com/ru/company/dcmiran/blog/500360/">
+<a href="http://35.91.83.221:8501">
 The best medium difficulty SQL questions in a data analyst interview
 </a>
 <p></p>
