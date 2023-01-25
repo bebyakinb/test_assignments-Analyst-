@@ -42,7 +42,7 @@ Project code
 </a>
 </td>
 <td>
-Test assignment for the position of Junior Analyst at Saber Interactive. 2 solved SQL problems and <a href="https://habr.com/ru/company/dcmiran/blog/500360/">interactive dashboard app(Python, streamlit)
+Test assignment for the position of Junior Analyst at Saber Interactive. 2 solved SQL problems and <a href="http://35.91.83.221:8501">interactive dashboard app(Python, streamlit)
 </a>
 <p></p>
 <a href="https://github.com/bebyakinb/test_assignments_Analyst/blob/master/Saber">
@@ -56,7 +56,7 @@ Project code
 </a>
 </td>
 <td>
-<a href="http://35.91.83.221:8501">
+<a href="https://habr.com/ru/company/dcmiran/blog/500360/">
 The best medium difficulty SQL questions in a data analyst interview
 </a>
 <p></p>
